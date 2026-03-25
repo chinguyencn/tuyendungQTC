@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <img
           src="https://images.unsplash.com/photo-1598964340675-94ed88ae0b97?auto=format&fit=crop&q=80&w=2000"
-          alt="Vinhomes Ha Long Xanh Aerial View"
+          alt=""
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />
@@ -34,7 +34,7 @@ export default function Hero() {
             Dành cho người đang muốn kiếm thêm thu nhập nhưng chưa biết bắt đầu từ đâu
           </p>
           
-          <p className="text-xl md:text-2xl text-slate-300 mb-10 font-light">
+          <p className="text-xl md:text-2xl text-white mb-10 font-light">
             Ngay cả khi bạn chưa có bất kỳ kinh nghiệm nào
           </p>
 
