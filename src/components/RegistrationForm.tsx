@@ -57,7 +57,7 @@ export default function RegistrationForm() {
                       required
                       type="text"
                       placeholder="Nguyễn Văn A"
-                      className="w-full px-6 py-4 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all"
+                      className="w-full px-6 py-4 bg-slate-100 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all text-slate-900 placeholder:text-slate-400"
                     />
                   </div>
 
@@ -69,7 +69,7 @@ export default function RegistrationForm() {
                       required
                       type="tel"
                       placeholder="0901 234 567"
-                      className="w-full px-6 py-4 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all"
+                      className="w-full px-6 py-4 bg-slate-100 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all text-slate-900 placeholder:text-slate-400"
                     />
                   </div>
 
@@ -81,7 +81,7 @@ export default function RegistrationForm() {
                       required
                       type="text"
                       placeholder="Hà Nội, Quảng Ninh..."
-                      className="w-full px-6 py-4 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all"
+                      className="w-full px-6 py-4 bg-slate-100 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-500/50 transition-all text-slate-900 placeholder:text-slate-400"
                     />
                   </div>
 
