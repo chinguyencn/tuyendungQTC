@@ -14,10 +14,6 @@ export default function Filter() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-red-500/10 border border-red-500/20 text-red-400 mb-6">
-            <AlertCircle className="w-5 h-5" />
-            <span className="text-sm font-bold uppercase tracking-widest">Dừng lại 10 giây</span>
-          </div>
           <h2 className="text-3xl md:text-5xl font-bold mb-6">Không phải ai cũng phù hợp</h2>
           <p className="text-slate-200 max-w-2xl mx-auto text-lg">
             Chúng tôi tìm kiếm những cộng sự nghiêm túc. Hãy xem bạn có thuộc về đội ngũ này không?

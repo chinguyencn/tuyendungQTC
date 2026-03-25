@@ -29,6 +29,10 @@ export default function Hero() {
             BẮT ĐẦU KIẾM TIỀN TỪ <br />
             <span className="text-amber-500">BẤT ĐỘNG SẢN</span>
           </h1>
+
+          <p className="text-lg md:text-xl font-bold text-amber-400 mb-4 tracking-wide uppercase">
+            Dành cho người đang muốn kiếm thêm thu nhập nhưng chưa biết bắt đầu từ đâu
+          </p>
           
           <p className="text-xl md:text-2xl text-slate-300 mb-10 font-light">
             Ngay cả khi bạn chưa có bất kỳ kinh nghiệm nào

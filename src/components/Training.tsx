@@ -64,9 +64,6 @@ export default function Training() {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">Trải nghiệm Thực địa</h3>
-                <p className="text-amber-500 font-medium flex items-center gap-2">
-                  <Calendar className="w-4 h-4" /> Chủ Nhật hàng tuần
-                </p>
               </div>
             </div>
             <ul className="space-y-4">
