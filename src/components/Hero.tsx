@@ -4,14 +4,8 @@ import { ArrowRight, CheckCircle2, MessageCircle } from "lucide-react";
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 pb-12 px-4">
-      {/* Background Image with Overlay */}
-      <div className="absolute inset-0 z-0">
-        <img
-          src="https://images.unsplash.com/photo-1598964340675-94ed88ae0b97?auto=format&fit=crop&q=80&w=2000"
-          alt=""
-          className="w-full h-full object-cover"
-          referrerPolicy="no-referrer"
-        />
+      {/* Background Overlay */}
+      <div className="absolute inset-0 z-0 bg-slate-900">
         <div className="absolute inset-0 bg-gradient-to-b from-slate-900/70 via-slate-900/40 to-slate-900/80" />
       </div>
 
