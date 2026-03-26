@@ -16,7 +16,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
         >
           <span className="inline-block px-4 py-1.5 mb-6 text-sm font-semibold tracking-wider uppercase bg-amber-500/20 border border-amber-500/30 rounded-full text-amber-500">
-            Dự án Vinhomes Hạ Long Xanh - Ra hàng 04/2026
+            Dự án Hạ Long Xanh - Ra hàng 04/2026
           </span>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
