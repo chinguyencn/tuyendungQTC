@@ -14,7 +14,7 @@ export default function Training() {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Lộ trình đào tạo thần tốc</h2>
-          <p className="text-slate-400 text-lg">Xóa bỏ mọi nỗi sợ, bắt đầu kiếm tiền sau 7 ngày.</p>
+          <p className="text-slate-400 text-lg">Xóa bỏ mọi nỗi sợ, bắt đầu kiếm tiền ngay sau khoá đào tạo 2 ngày và 1 ngày thực địa.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-20">
@@ -39,7 +39,7 @@ export default function Training() {
             <ul className="space-y-4">
               {[
                 "Tổng quan thị trường BĐS 2026",
-                "Chi tiết dự án Vinhomes Hạ Long Xanh",
+                "Chi tiết các dự án Vinhomes",
                 "Kỹ năng tìm kiếm khách hàng đa kênh",
                 "Kịch bản tư vấn & xử lý từ chối"
               ].map((item, i) => (
