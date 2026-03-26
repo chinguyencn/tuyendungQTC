@@ -20,8 +20,8 @@ export default function Hero() {
           </span>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            BẮT ĐẦU KIẾM TIỀN TỪ <br />
-            <span className="text-amber-500">BẤT ĐỘNG SẢN</span>
+           🔥 QTC LAND _ TUYỂN DỤNG CTV <br />
+            <span className="text-amber-500">KINH DOANH BĐS VINHOMES TOÀN QUỐC</span>
           </h1>
 
           <p className="text-lg md:text-xl font-bold text-amber-400 mb-4 tracking-wide uppercase">
